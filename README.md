@@ -168,5 +168,5 @@ Install the [Microsoft Visual C++ 2010 Redistributable Package](http://www.micro
 See Also
 --------
 
-[Mining Hardware Performance](http://wiki.solidcoin.info/wiki/Mining_Hardware_Performance)
+[Mining Hardware Performance](https://en.bitcoin.it/wiki/Mining_hardware_comparison)
 
